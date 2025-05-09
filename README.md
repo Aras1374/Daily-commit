@@ -31,3 +31,5 @@ do
 i
 want
 to
+send
+euro
