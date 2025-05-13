@@ -34,3 +34,4 @@ to
 send
 euro
 with
+sepa instant
