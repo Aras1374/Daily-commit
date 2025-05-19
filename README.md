@@ -36,3 +36,4 @@ euro
 with
 sepa instant
 please
+send
