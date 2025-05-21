@@ -38,3 +38,5 @@ sepa instant
 please
 send
 iban
+and
+name
