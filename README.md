@@ -40,3 +40,4 @@ send
 iban
 and
 name
+pure
